@@ -1,1 +1,1 @@
-# Learning GraphQL through Book/Author App
+# Learning GraphQL through Book-Author App
